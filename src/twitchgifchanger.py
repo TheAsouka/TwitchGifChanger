@@ -6,7 +6,7 @@ from PIL import Image, ImageSequence
 server = 'irc.chat.twitch.tv'
 port = 6667
 nickname = 'gifbot' #We don't care about that
-token = 'oauth:fj4r4trexey7afb9g74y2s2ide3bxp' #https://www.learndatasci.com/tutorials/how-stream-text-data-twitch-sockets-python/
+token = 'YOUR_TWI_KEY' #https://www.learndatasci.com/tutorials/how-stream-text-data-twitch-sockets-python/
 channel = '#yourchannel' #Your channel
 api_key_giphy = "YOUR_API_KEY"  # https://developers.giphy.com/dashboard/
 
