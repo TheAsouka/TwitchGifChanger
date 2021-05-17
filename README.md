@@ -7,7 +7,7 @@ This script was developped with Python3.9.
   
 Put this script into your stream directory.  
 On OBS create a new media source then check the "local file" box, select a GIF called giphy.gif in your directory.  
-![alt-text](https://github.com/TheAsouka/TwitchGifChanger/blob/main/img/Capture.PNG, "Media source")  
+![alt-text](https://github.com/TheAsouka/TwitchGifChanger/blob/main/img/Capture.PNG "Media source")  
 Then check the other boxes, like on the screenshot below.
 
 Start the script when you strat your stream then wait for your viewers to use the command "!gif something".
